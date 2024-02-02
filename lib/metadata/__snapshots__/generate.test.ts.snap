@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`generates correct metadata for: dynamic route 1`] = `
+{
+  "description": "View transaction 0x12345 on DeeLance  (DeeLance) Explorer",
+  "title": "DeeLance transaction 0x12345 | DeeLance",
+}
+`;
+
+exports[`generates correct metadata for: dynamic route with API data 1`] = `
+{
+  "description": "0x12345, balances and analytics on the DeeLance (DeeLance) Explorer",
+  "title": "DeeLance USDT token details | DeeLance",
+}
+`;
+
+exports[`generates correct metadata for: static route 1`] = `
+{
+  "description": “Deelance Blockchain Explorer is a streamlined, easy-to-use tool for viewing real-time transactions and activities . It provides detailed insights into blocks, transactions, and addresses . This explorer is a key resource for anyone looking to track network health and manage smart contracts efficiently.",
+  "title": "DeeLance blocks | DeeLance",
+}
+`;
